@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Detect Trucks using Sentinel-2 data",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_Detect_Trucks_Sentinel2_preview.png",
+    "link": "notebooks/detect-trucks-sentinel2",
+    "org": "ESA-eodashboards",
+    "repo": "RACE-notebooks",
+    "source": "local",
+    "path": "notebooks/Detect_Trucks_Sentinel2.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/RACE-notebooks&urlpath=lab/tree/RACE-notebooks/notebooks/Detect_Trucks_Sentinel2.ipynb&branch=main"
+  }
+]
