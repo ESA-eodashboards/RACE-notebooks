@@ -1,5 +1,19 @@
 [
   {
+    "title": "Flood analysis using Earth observation",
+    "description": "",
+    "metadata": {
+      "title": "Flood analysis using Earth observation"
+    },
+    "image": "build/_assets/previews/notebooks_Floods_analysis_with_WASDI_data_preview.png",
+    "link": "notebooks/floods-analysis-with-wasdi-data",
+    "org": "ESA-eodashboards",
+    "repo": "RACE-notebooks",
+    "source": "local",
+    "path": "notebooks/Floods_analysis_with_WASDI_data.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/RACE-notebooks&urlpath=lab/tree/RACE-notebooks/notebooks/Floods_analysis_with_WASDI_data.ipynb&branch=main"
+  },
+  {
     "title": "Evaluation of Fire Impact on Populated Areas on a European Site",
     "description": "",
     "metadata": {},
