@@ -1,9 +1,9 @@
 [
   {
-    "title": "Flood analysis using Earth observation",
+    "title": "Flood analysis using WASDI Earth observation flooding datasets",
     "description": "",
     "metadata": {
-      "title": "Flood analysis using Earth observation"
+      "title": "Flood analysis using WASDI Earth observation flooding datasets"
     },
     "image": "build/_assets/previews/notebooks_Floods_analysis_with_WASDI_data_preview.png",
     "link": "notebooks/floods-analysis-with-wasdi-data",
