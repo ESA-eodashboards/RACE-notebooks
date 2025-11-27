@@ -12,7 +12,7 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/RACE-notebooks&urlpath=lab/tree/RACE-notebooks/notebooks/Fire_impact_analysis.ipynb&branch=main"
   },
   {
-    "title": "Flood analysis using Earth observation",
+    "title": "Flood analysis using WASDI Earth observation flooding datasets",
     "description": "",
     "metadata": {},
     "image": "build/_assets/previews/notebooks_Floods_WASDI_Notebook_preview.png",
