@@ -12,18 +12,6 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/RACE-notebooks&urlpath=lab/tree/RACE-notebooks/notebooks/Fire_impact_analysis.ipynb&branch=main"
   },
   {
-    "title": "Flood analysis using WASDI Earth observation flooding datasets",
-    "description": "",
-    "metadata": {},
-    "image": "build/_assets/previews/notebooks_Floods_WASDI_Notebook_preview.png",
-    "link": "notebooks/floods-wasdi-notebook",
-    "org": "ESA-eodashboards",
-    "repo": "RACE-notebooks",
-    "source": "local",
-    "path": "notebooks/Floods_WASDI_Notebook.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/RACE-notebooks&urlpath=lab/tree/RACE-notebooks/notebooks/Floods_WASDI_Notebook.ipynb&branch=main"
-  },
-  {
     "title": "Detect Trucks using Sentinel-2 data",
     "description": "",
     "metadata": {},
