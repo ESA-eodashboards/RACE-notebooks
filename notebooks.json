@@ -1,17 +1,5 @@
 [
   {
-    "title": "Evaluation of Fire Impact on Populated Areas on a European Site",
-    "description": "",
-    "metadata": {},
-    "image": "build/_assets/previews/notebooks_Fire_impact_analysis_preview.png",
-    "link": "notebooks/fire-impact-analysis",
-    "org": "ESA-eodashboards",
-    "repo": "RACE-notebooks",
-    "source": "local",
-    "path": "notebooks/Fire_impact_analysis.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/RACE-notebooks&urlpath=lab/tree/RACE-notebooks/notebooks/Fire_impact_analysis.ipynb&branch=main"
-  },
-  {
     "title": "Detect Trucks using Sentinel-2 data",
     "description": "",
     "metadata": {},
@@ -24,16 +12,16 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/RACE-notebooks&urlpath=lab/tree/RACE-notebooks/notebooks/Detect_Trucks_Sentinel2.ipynb&branch=main"
   },
   {
-    "title": "Exploring Inland Water Bodies with Sentinel-2 data in EDC",
+    "title": "Evaluation of Fire Impact on Populated Areas on a European Site",
     "description": "",
     "metadata": {},
-    "image": "build/_assets/previews/notebooks_Inland_water_with_EDC_preview.png",
-    "link": "notebooks/inland-water-with-edc",
+    "image": "build/_assets/previews/notebooks_Fire_impact_analysis_preview.png",
+    "link": "notebooks/fire-impact-analysis",
     "org": "ESA-eodashboards",
     "repo": "RACE-notebooks",
     "source": "local",
-    "path": "notebooks/Inland_water_with_EDC.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/RACE-notebooks&urlpath=lab/tree/RACE-notebooks/notebooks/Inland_water_with_EDC.ipynb&branch=main"
+    "path": "notebooks/Fire_impact_analysis.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/RACE-notebooks&urlpath=lab/tree/RACE-notebooks/notebooks/Fire_impact_analysis.ipynb&branch=main"
   },
   {
     "title": "Flood analysis using WASDI Earth observation flooding datasets",
@@ -48,5 +36,17 @@
     "source": "local",
     "path": "notebooks/Flooding_analysis_with_WASDI_data.ipynb",
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/RACE-notebooks&urlpath=lab/tree/RACE-notebooks/notebooks/Flooding_analysis_with_WASDI_data.ipynb&branch=main"
+  },
+  {
+    "title": "Exploring Inland Water Bodies with Sentinel-2 data in EDC",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_Inland_water_with_EDC_preview.png",
+    "link": "notebooks/inland-water-with-edc",
+    "org": "ESA-eodashboards",
+    "repo": "RACE-notebooks",
+    "source": "local",
+    "path": "notebooks/Inland_water_with_EDC.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/RACE-notebooks&urlpath=lab/tree/RACE-notebooks/notebooks/Inland_water_with_EDC.ipynb&branch=main"
   }
 ]
